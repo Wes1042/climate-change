@@ -15,11 +15,11 @@ body {
 
 .logo{
   width: 55%;
-  height: 50%;
+  height: 70%;
   background: url(./media/website_title.jpg);
   background-size: cover;
-  margin: 40px;
-  margin-right: 20px;
+  margin: 10px;
+  margin-right: 40px;
 
 }
 .container1 {
