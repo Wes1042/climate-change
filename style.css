@@ -16,7 +16,7 @@ body {
 .logo{
   width: 55%;
   height: 50%;
-  background: url(/media/website_title.jpg);
+  background: url(./media/website_title.jpg);
   background-size: cover;
   margin: 40px;
   margin-right: 20px;
